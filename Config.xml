@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="HAS_SIDELAYERING">false</entry>
+<entry key="RESULT_PATH">result</entry>
+<entry key="HAS_SPOOFING">false</entry>
+<entry key="TICK_MS">100</entry>
+<entry key="DISPLAY_MINUTE">1</entry>
+<entry key="FILE_ID">3</entry>
+<entry key="HAS_LAYERING">false</entry>
+<entry key="INIT_PRICE">1350</entry>
+<entry key="INIT_SYMBOL">FUTURE</entry>
+</properties>

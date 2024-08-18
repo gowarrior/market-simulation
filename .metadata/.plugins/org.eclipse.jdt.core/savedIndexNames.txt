@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Bill\research\python\MarketSimulation\.metadata\.plugins\org.eclipse.jdt.core
+718313963.index
+3271193799.index
+1865797976.index
