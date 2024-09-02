@@ -52,7 +52,7 @@ Example `application.properties`:
 ```properties
 market.volatility=0.05
 trading.initialCapital=10000
-trading.transactionFee=0.001
+trading.transactionFee=0.001```
 
 ### Explanation
 
