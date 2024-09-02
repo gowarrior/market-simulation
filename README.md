@@ -15,7 +15,26 @@ The **Market Simulation Project** is a Java-based application designed to simula
 
 The project follows a standard Maven structure:
 
-market-simulation/ │ ├── src/ │ ├── main/ │ │ ├── java/ # Java source code │ │ │ └── com/ │ │ │ └── yourpackage/ # Your package structure │ │ │ ├── Main.java # Main application entry point │ │ │ └── ... # Other source files │ │ └── resources/ # Application resources (e.g., configuration files) │ │ └── application.properties │ └── test/ │ ├── java/ # Test source code │ │ └── com/ │ │ └── yourpackage/ # Your test package structure │ │ ├── MainTest.java # Test cases for Main.java │ │ └── ... # Other test files │ └── resources/ # Test resources │ ├── pom.xml # Maven build file with dependencies and plugins └── README.md # Project documentation
+market-simulation/
+├── src/
+│   ├── main/
+│   │   ├── java/                             # Java source code
+│   │   │   └── com/
+│   │   │       └── yourpackage/
+│   │   │           ├── Main.java              # Main application entry point
+│   │   │           └── ...                    # Other source files
+│   │   └── resources/                         # Application resources (e.g., configuration files)
+│   │       └── application.properties
+│   └── test/
+│       ├── java/                              # Test source code
+│       │   └── com/
+│       │       └── yourpackage/
+│       │           ├── MainTest.java          # Test cases for Main.java
+│       │           └── ...                    # Other test files
+│       └── resources/                         # Test resources
+│
+├── pom.xml                                    # Maven build file with dependencies and plugins
+└── README.md                                  # Project documentation
 
 ## Prerequisites
 
@@ -52,7 +71,7 @@ Example `application.properties`:
 ```properties
 market.volatility=0.05
 trading.initialCapital=10000
-trading.transactionFee=0.001```
+trading.transactionFee=0.001
 
 ### Explanation
 
