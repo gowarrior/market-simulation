@@ -15,7 +15,7 @@ The **Market Simulation Project** is a Java-based application designed to simula
 
 The project follows a standard Maven structure:
 
-market-simulation/
+```market-simulation/
 ├── src/
 │   ├── main/
 │   │   ├── java/                             # Java source code
@@ -35,7 +35,7 @@ market-simulation/
 │
 ├── pom.xml                                    # Maven build file with dependencies and plugins
 └── README.md                                  # Project documentation
-
+```
 ## Prerequisites
 
 - **Java 11 or higher**: Ensure you have Java 11+ installed.
@@ -72,6 +72,7 @@ Example `application.properties`:
 market.volatility=0.05
 trading.initialCapital=10000
 trading.transactionFee=0.001
+```
 
 ### Explanation
 
