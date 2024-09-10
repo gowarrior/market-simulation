@@ -1,5 +1,11 @@
 # Market Simulation Project
 
+## License
+
+This project is licensed under the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** license (CC BY-NC-SA 4.0). 
+
+You can find the full text of the license in the [LICENSE](LICENSE) file or at the following link: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Overview
 
 The **Market Simulation Project** is a Java-based application designed to simulate market behavior and trading scenarios. The project provides a robust platform for developing and testing various trading strategies in a simulated environment.
@@ -93,6 +99,3 @@ trading.transactionFee=0.001
 
 - **`README.md`**: This README file that provides an overview and instructions for the project.
 
-### Usage in README
-
-By including this structured explanation in your README, new developers and contributors can quickly understand the layout of your project, what each directory is for, and where to add new code or resources. This clear structure is especially helpful for maintaining a well-organized codebase.
